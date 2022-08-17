@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Alert
 //
-//  Created by Mehmet Ali Kılıçlı on 29.07.2022.
+//  Created by Muhammed Enes Kılıçlı on 29.07.2022.
 //
 
 import UIKit
